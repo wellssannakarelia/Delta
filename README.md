@@ -1,0 +1,2 @@
+# DeltaSanna
+Harjoitustyö
