@@ -1,2 +1,2 @@
-# DeltaSanna
+# Delta
 Harjoitustyö
